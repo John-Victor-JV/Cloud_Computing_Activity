@@ -15,10 +15,10 @@ app.set('views', path.join(__dirname, 'views'));
 
 // Database configuration
 const config = {
-    user: 'azureuser',
+    user: 'adminact3',
     password: 'P@ssw0rd',
-    server: 'week10066.database.windows.net',
-    database: 'wk10',
+    server: 'act3db.database.windows.net',
+    database: 'act3db',
     options: {
         encrypt: true,
         enableArithAbort: true
