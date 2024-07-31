@@ -18,7 +18,7 @@ const config = {
     user: 'adminact3',
     password: 'P@ssw0rd',
     server: 'act3db.database.windows.net',
-    database: 'act3db',
+    database: 'act3',
     options: {
         encrypt: true,
         enableArithAbort: true
